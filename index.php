@@ -3,8 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="javascripts/main.js"></script>
     <!--[if lt IE 9]>
@@ -13,9 +11,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
-  <title>Talia's pet care</title>
-  <header><div>Talia's pet care</div></header>
-  <body>
-    <div style="color: white; font-family: cursive; font-size: 25px;">Talia's pet care's website is not finished, Come back soon!</div>
+  <body>>
   </body>
 </html>
